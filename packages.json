@@ -1,0 +1,14 @@
+[
+    {
+        "package": "soils",
+        "url": "https://github.com/WA-Department-of-Agriculture/soils"
+    },
+    {
+        "package": "washi",
+        "url": "https://github.com/WA-Department-of-Agriculture/washi"
+    },
+    {
+        "package": "WaCSE",
+        "url": "https://github.com/WA-Department-of-Agriculture/WaCSE"
+    }
+]
